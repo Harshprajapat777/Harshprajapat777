@@ -32,7 +32,7 @@ I love creating innovative solutions that bridge the gap between **artificial in
 ---
 
 ### 🔧 Quest Digiflex Pvt Ltd
-**Software Engineer Intern - AI & Full Stack** | *July 2025 – Present*  
+**Software Engineer Intern - AI & Full Stack** |
 
 **Project: TIME-TO-FIT (Live on Production)**  
 - Designed and implemented **microservices-based APIs**  
