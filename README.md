@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Harsh Prajapat
 
 
-**AI Nerd Tech Savvy and Pshyco**
+**I'm AI Nerd Tech Savvy and Pshyco.**
 
